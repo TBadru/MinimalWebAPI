@@ -1,4 +1,4 @@
- minimal API with ASP.NET Core with a Swagger UI.
+ASP.NET Core minimal web API with a Swagger UI
 
 ## Setup
 
