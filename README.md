@@ -1,4 +1,4 @@
-ASP.NET Core minimal web API with a Swagger UI
+ASP.NET Core Minimal Web API with a Swagger/OpenAPI UI
 
 ## Setup
 
